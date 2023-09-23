@@ -1,0 +1,6 @@
+{
+    "nombre": "Nombre de la cadeteria",
+    "has_more_items": "bool",
+    "items_html": "string('Bus','Car','Bike')",
+    "new_latent_count": "int"
+}

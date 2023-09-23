@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\queco\\.nuget\\packages\\": {}
+    "C:\\Users\\Alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\taller2\\webapi\\TP4\\TP4.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\Trabajo Practico 41\\tl2-tp4-2023-LeanCas\\Ejemplo WebApi\\TP4\\TP4.csproj",
       "projectName": "TP4",
-      "projectPath": "C:\\repos\\taller2\\webapi\\TP4\\TP4.csproj",
-      "packagesPath": "C:\\Users\\queco\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\taller2\\webapi\\TP4\\obj\\",
+      "projectPath": "C:\\Users\\Alumno\\Desktop\\Trabajo Practico 41\\tl2-tp4-2023-LeanCas\\Ejemplo WebApi\\TP4\\TP4.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alumno\\Desktop\\Trabajo Practico 41\\tl2-tp4-2023-LeanCas\\Ejemplo WebApi\\TP4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\queco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -489,7 +489,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.307\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -536,7 +536,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

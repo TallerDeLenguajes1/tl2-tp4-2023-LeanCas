@@ -31,3 +31,13 @@ C:\repos\taller2\webapi\TP4\obj\Debug\net7.0\refint\TP4.dll
 C:\repos\taller2\webapi\TP4\obj\Debug\net7.0\TP4.pdb
 C:\repos\taller2\webapi\TP4\obj\Debug\net7.0\TP4.genruntimeconfig.cache
 C:\repos\taller2\webapi\TP4\obj\Debug\net7.0\ref\TP4.dll
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.dll
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\refint\TP4.dll
+C:\Users\Alumno\Desktop\Trabajo Practico 41\tl2-tp4-2023-LeanCas\Ejemplo WebApi\TP4\obj\Debug\net7.0\TP4.pdb
