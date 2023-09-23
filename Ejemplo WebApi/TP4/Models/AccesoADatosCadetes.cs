@@ -1,19 +1,18 @@
+using System.Text.Json;
+
 namespace Web_Api;
 
 class AccesoADatosCadetes {
-    List<Cadete> Obtener;
     public List<Cadete> Obtener(){
 
         string jsonPath = Directory.GetCurrentDirectory();
 
-        jsonPath = jsonPath + "/Cadeteria.json";
-        
-        Console.WriteLine(jsonPath);
+        jsonPath = jsonPath + "/Cadetes.json";
         
         string jsonContent = File.ReadAllText(jsonPath);
 
-        Cadeteria cadeteriaNueva = JsonSerializer.Deserialize<Cadeteria>(jsonContent);
+        List<Cadete> cadetes = JsonSerializer.Deserialize<List<Cadete>>(jsonContent);
 
-        return cadeteriaNueva;
+        return cadetes;
     }
 }
